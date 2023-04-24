@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968705720124",
+    "project_id": "iqhub-22311",
+    "storage_bucket": "iqhub-22311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968705720124:android:27e5a518034bd8252e2839",
+        "android_client_info": {
+          "package_name": "com.example.iqhub_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968705720124-5rpcod0alv3nso2b36uv3ct4dghs2f5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJoYKz8ty7MKCh2e8FKUANQN94EsJgGAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968705720124-5rpcod0alv3nso2b36uv3ct4dghs2f5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
